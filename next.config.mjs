@@ -21,8 +21,8 @@ const nextConfig = {
     parallelServerBuildTraces: true,
     parallelServerCompiles: true,
   },
-  basePath: '/cv',
-  assetPrefix: '/cv/',
+  basePath: '/v0-webpage',
+  assetPrefix: '/v0-webpage/',
 }
 
 mergeConfig(nextConfig, userConfig)
